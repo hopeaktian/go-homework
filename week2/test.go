@@ -45,4 +45,8 @@ func main() {
 		return
 	}
 	fmt.Printf("query ok: %#v\n", user)
+
+	for {
+		fmt.Println("a")
+	}
 }
